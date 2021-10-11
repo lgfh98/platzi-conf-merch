@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Snapshot Comprobar el Snapshot de Header 1`] = `
+<div
+  className="Header"
+>
+  <h1
+    className="Header-title"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      PlatziConf Merch
+    </a>
+  </h1>
+  <div
+    className="Header-checkout"
+  >
+    <a
+      href="/checkout"
+      onClick={[Function]}
+    >
+      <i
+        className="fas fa-shopping-basket fa-2x"
+        title="Checkout"
+      />
+    </a>
+  </div>
+</div>
+`;
