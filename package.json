@@ -64,5 +64,6 @@
     },
     "testEnvironment": "jsdom",
     "verbose": true
-  }
+  },
+  "homepage": "https://lgfh98.github.io/platzi-conf-merch"
 }
